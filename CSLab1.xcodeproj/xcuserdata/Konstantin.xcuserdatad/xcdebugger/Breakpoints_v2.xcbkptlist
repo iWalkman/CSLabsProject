@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CSLab1/MatrixWork/MatrixParser.swift"
+            timestampString = "565516105.469656"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "init(matrixString:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CSLab1.MatrixParser.init(matrixString: Swift.String) -&gt; CSLab1.MatrixParser"
+                  moduleName = "CSLab1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///iOSDev/CSLab1/CSLab1/MatrixWork/MatrixParser.swift"
+                  timestampString = "565508806.012018"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "903">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.String) -&gt; Swift.Float80 in CSLab1.MatrixParser.init(matrixString: Swift.String) -&gt; CSLab1.MatrixParser"
+                  moduleName = "CSLab1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///iOSDev/CSLab1/CSLab1/MatrixWork/MatrixParser.swift"
+                  timestampString = "565508806.016688"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
